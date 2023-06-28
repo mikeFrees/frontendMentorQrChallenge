@@ -3,7 +3,7 @@
     src: url(font/Outfit-VariableFont_wght.ttf);
 }
 
-@media (hover:none){
+@media screen and (min-width: 375px){
     body{ 
         width: 375px;
     }
