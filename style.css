@@ -24,12 +24,13 @@ div {
     border-radius: 5%;
     margin-left: 10%;
     margin-right: 10%;
-    width: 80%;
+    width: 40%;
 }
 
 img { 
     border-radius: 5%;
     width: 94%;
+    height: 60%;
     margin: 3%;
 }
 
@@ -41,6 +42,7 @@ h1 {
     text-align: center;
     margin-left: 20%;
     margin-right: 20%;
+    height: 20%;
 }
 
 p {
@@ -52,6 +54,7 @@ p {
     margin-left: 30%;
     margin-right: 30%;
     padding-bottom: 10%;
+    height: 20%;
 }
 
 .attribution { 
