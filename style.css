@@ -19,7 +19,7 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-div { 
+main, footer { 
     background-color: hsl(0, 0%, 100%);
     border-radius: 5%;
     margin-left: 10%;
