@@ -37,10 +37,10 @@ body {
     min-height: 100vh;
     background-color: var(--CLight-Gray);
     align-items: center;
+    justify-content: center;
 }
 
 main {
-    margin:  20% 20%;
     height: 80%;
     width: 80%;
     gap: 10px;
@@ -78,10 +78,6 @@ p {
     font-weight: 400;
     color: var(--CGrayish-Blue);
     margin: 0% 10% 5% 10%;
-}
-
-footer {
-    margin-top: auto;
 }
 
 .attribution { 
